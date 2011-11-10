@@ -2,9 +2,9 @@
 Contributors: Yoshihiko Yoshida
 Donate link: http://www.kagua.biz/
 Tags: weather,shortcode
-Requires at least: 1.0.0
+Requires at least: 1.0.1
 Tested up to: 1.0.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 
 == Description ==
@@ -36,6 +36,9 @@ An answer to that question.
 * first version.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* small bug fix.
 
 = 1.0.0 =
 * first version.
