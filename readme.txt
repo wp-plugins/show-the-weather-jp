@@ -3,8 +3,8 @@ Contributors: Yoshihiko Yoshida
 Donate link: http://www.kagua.biz/
 Tags: weather,shortcode
 Requires at least: 1.0.2
-Tested up to: 1.0.0
-Stable tag: 1.0.1
+Tested up to: 4.2.2
+Stable tag: 2.0.1
 
 
 == Description ==
