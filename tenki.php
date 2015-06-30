@@ -4,13 +4,15 @@ Plugin Name: show the weather JP
 Plugin URI: http://www.kagua.biz/wp/howto-wp-plugin.html
 Description: If you want to display the weather for your entry in Japan, then this plugin is very useful. Set the area code, just use a short code, an icon appears in tomorrow's weather in Japan.
 Author: Yoshihiko Yoshida
-Version: 1.0
+Version: 2.0.2
 Author URI: http://www.kagua.biz/
 */
 
 function ldtenki1($atts) {
 
 extract(shortcode_atts(array('date' => '0'), $atts));
+
+if( $date!=0 or $date!=1 or $date!=2 ) { $date = 1; }
 
 if(!get_option('tiiki')){$tiiki="140010";}
 else{$tiiki=get_option('tiiki');}

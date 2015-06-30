@@ -4,7 +4,7 @@ Donate link: http://www.kagua.biz/
 Tags: weather,shortcode
 Requires at least: 1.0.2
 Tested up to: 4.2.2
-Stable tag: 2.0.1
+Stable tag: 2.0.2
 
 
 == Description ==
@@ -32,6 +32,8 @@ An answer to that question.
 
 == Changelog ==
 
+= 2.0.2 =
+* bugfix.
 = 2.0.0 =
 * add memo and bugfix.
 = 1.0.1 =
@@ -41,6 +43,8 @@ An answer to that question.
 
 == Upgrade Notice ==
 
+= 2.0.2 =
+* bugfix.
 = 2.0.0 =
 * add memo and bugfix.
 = 1.0.1 =
